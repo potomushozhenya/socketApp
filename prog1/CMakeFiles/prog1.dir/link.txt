@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprog1.a CMakeFiles/prog1.dir/prog1.cpp.o
+/usr/bin/ranlib libprog1.a

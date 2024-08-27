@@ -1,0 +1,4 @@
+/mnt/d/cRepos/test/prog1/CMakeFiles/prog1.dir
+/mnt/d/cRepos/test/prog1/CMakeFiles/main.dir
+/mnt/d/cRepos/test/prog1/CMakeFiles/edit_cache.dir
+/mnt/d/cRepos/test/prog1/CMakeFiles/rebuild_cache.dir
